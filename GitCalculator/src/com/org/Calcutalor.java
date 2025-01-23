@@ -9,4 +9,18 @@ public void add()
 	int c=a+b;
 	System.out.println("addition is:- "+c);
 }
+public void sum()
+{
+double x=50;
+double y=30;
+double z=x+y;
+System.out.println("subtraction is:- "+z);
+}
+public void div()
+{
+	float p=100;
+	float q=20;
+	float r=p/q;
+	System.out.println("multiplication is:- "+r);
+}
 }
