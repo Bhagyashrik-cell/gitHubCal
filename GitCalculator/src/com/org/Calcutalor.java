@@ -23,4 +23,11 @@ public void div()
 	float r=p/q;
 	System.out.println("multiplication is:- "+r);
 }
+	public void mul()
+{
+	float p=100;
+	float q=20;
+	float r=p*q;
+	System.out.println("multiplication is:- "+r);
+}
 }
