@@ -30,4 +30,11 @@ public void div()
 	float r=p*q;
 	System.out.println("multiplication is:- "+r);
 }
+	public static void main(String[] args) {
+		Calcutalor c=new Calcutalor();
+		c.add();
+		c.sum();
+		c.mul();
+		c.div();
+	}
 }
